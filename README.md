@@ -39,7 +39,7 @@ Para obtener los mejores resultados y probar la mayor cantidad de RAM posible, s
 
 ### Pasos
 1.  Descarga la última *Release* o compila el código fuente.
-2.  Ejecuta `RamStressTester.exe` como Administrador.
+2.  Ejecuta `Test_Memoria_Video.exe` como Administrador.
 3.  **Prueba Básica:**
     * Introduce la cantidad de MB o pulsa "Test Completo".
 4.  **Prueba de Degradación (Recomendada):**
