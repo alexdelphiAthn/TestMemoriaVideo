@@ -64,7 +64,8 @@ Este software somete al hardware (CPU, RAM y VRMs) a una carga de trabajo intens
 
 ## 📄 Licencia
 
-Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE.md](LICENSE.md) para más detalles.
+Código y ejecutable firmado electrónicamente por Alejandro Laorden Hidalgo
+Este proyecto está bajo la Licencia MIT - ver el archivo [LICENSE](LICENSE) para más detalles.
 
 ---
 *Desarrollado con Delphi y OmniThreadLibrary.*
